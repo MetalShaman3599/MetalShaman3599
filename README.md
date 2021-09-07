@@ -14,14 +14,14 @@
 
 <p align="center">
   <em>
-    This is ME, Naveen Kumawat, a <b>Fresher</b> undergraduate from <a href=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlypqAdGIk-A05d5FqL63psd52PQM6wcquEw&usqp=CAU"> <b>Dwarkadas J Sanghvi college of  engineering </b>, amritsar</a>. <br>
+    This is ME, Naveen Kumawat, a <b>Fresher</b> undergraduate from <a href=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlypqAdGIk-A05d5FqL63psd52PQM6wcquEw&usqp=CAU"> <b>Dwarkadas J Sanghvi college of  engineering </b>, Mumbai, Maharashtra</a>. <br>
     A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING and Actively looking for a Software Engineer role!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" /> </p>
