@@ -1,26 +1,114 @@
-<h1 align="center">Awesome GitHub Profile README 
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h3 align="center">Software Engineer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/naveen-kumawat-9833a6171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+ <a href = "mailto: naveenkumawat.3599@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 
-<i>A curated list of awesome Github Profile READMEs</i>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<p align="center">
+  <em>
+    This is ME, Naveen Kumawat, a <b>Fresher</b> undergraduate from <a href=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlypqAdGIk-A05d5FqL63psd52PQM6wcquEw&usqp=CAU"> <b>Dwarkadas J Sanghvi college of  engineering </b>, amritsar</a>. <br>
+    A budding <b>Full-Stack Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+
+
+✔ I’m currently learning **ReactJS** & **NodeJS**<br>
+ 
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<p align="left">
+  
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
+  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/Akash-chowrasia/Akash-chowrasia/blob/main/images/flask.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
+  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
+"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+
+<hr>
+
+Here are some [🦜 parrots](https://cultofthepartyparrot.com):
+
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
 
+<hr>
+
+#### Want to Build Your Own?
+
+Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
+
+1. Create a *special* GitHub repository with your username as repository name. My username is `Akash-chowrasia` so my profile readme repository has the name `Akash-chowrasia`.
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
+
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
+
+-----
+Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
+
+Last Edited on: 22/02/2021
